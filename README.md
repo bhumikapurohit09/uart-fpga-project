@@ -13,3 +13,11 @@ Loopback test prints PASS for all test bytes. See docs/ for waveforms.
 
 ## Next steps
 Stop-bit check, FPGA implementation
+
+## Simulation Waveforms
+
+### UART Transmitter Waveform
+![UART TX Waveform](UART_TX_WAVE.png)
+
+### UART Transmitter and Receiver Waveform
+![UART TX RX Waveform](UART_TX_RX_WAVE.png)
